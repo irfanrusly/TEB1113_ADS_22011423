@@ -1,3 +1,11 @@
+/*
+name : muhammad adam irfan bin rusli
+id : 22011423
+group : 1
+lab : 2 (Easy) - Efficiently compute sums of diagonals of a matrix
+problem: https://geeksforgeeks.org/efficiently-compute-sums-of-diagonals-of-a-matrix/
+*/
+
 #include <iostream>
 #include <iostream>
 using namespace std;
